@@ -1,6 +1,7 @@
 
 *{outline:0 !important;}
-body{ background:#000000; padding:0; color: #454545; font-family: "Myriad Pro";}
+
+body{ background:#000000; padding:0; color: #454545; font-family: "Myriad Pro"; zoom: 90%}
 a,a:hover{text-decoration:none; color:#FE5214}
 h2,h3{color:#FE5214; text-rendering: optimizelegibility; }
 h1{padding:0px; font-weight: 200;font-size: 32px;color: #3f3f3f;margin: 0;font-family: "Myriad Pro";text-rendering: optimizelegibility;}
