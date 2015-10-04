@@ -68,7 +68,7 @@ h1.brand {
 	background:#3A494C;
 	color:#A5D2DA;
 }
- #sponsorSection, #ourServices,{padding:70px 0 ; }
+ #sponsorSection, #ourServices{padding:70px 0 ; }
 .txtR{text-align:right}
 
 #ourServices{background: #fff;text-align: center;border-top: 1px solid #ddd;}
