@@ -241,9 +241,9 @@ h1.brand {
 }
 
 
-#headerSection { padding:5px 0 20px;}
+#headerSection { padding:0px 0 20px;}
 #welcomeSection{padding:44px 0}
-#headerSection {display: inline-block;width: 50%;}
+#headerSection {display: inline-block;width: 100%;}
 .blockDtl {text-align:center}
 .blockDtl:hover{color:#FE5214}
 #shadow{ min-height:44px; padding:18px 0; text-align:center}
